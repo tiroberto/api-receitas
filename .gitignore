@@ -1,3 +1,6 @@
+#connections strings
+database.js
+
 # Logs
 logs
 *.log
